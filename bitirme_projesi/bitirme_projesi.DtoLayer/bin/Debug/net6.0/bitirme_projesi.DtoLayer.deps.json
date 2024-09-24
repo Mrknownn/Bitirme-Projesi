@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bitirme_projesi.DtoLayer/1.0.0": {
+        "runtime": {
+          "bitirme_projesi.DtoLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bitirme_projesi.DtoLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

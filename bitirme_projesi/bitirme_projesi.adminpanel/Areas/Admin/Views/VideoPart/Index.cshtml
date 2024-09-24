@@ -1,0 +1,55 @@
+﻿@model List<bitirme_projesi.adminpanel.Dtos.VideoPartDtos.ResultVideoPartDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+
+            <div class="card-header">
+                <h5>Video Yönetim Sayfası</h5>
+                <div class="card-header-right">
+                    <div class="btn-group card-option">
+                        <button type="button" class="btn dropdown-toggle btn-icon" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="feather icon-more-horizontal"></i>
+                        </button>
+                        <ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+                            <li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> maximize</span><span style="display:none"><i class="feather icon-minimize"></i> Restore</span></a></li>
+                            <li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> collapse</span><span style="display:none"><i class="feather icon-plus"></i> expand</span></a></li>
+                            <li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> reload</a></li>
+                            <li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> remove</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered">
+                    <tr>
+                        <th>#</th>
+                        <th>Video ID</th>
+                        <th>Video Başlığı</th>
+                        <th>Video Yazarı</th>
+                        <th>Video Link</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.videoPartID</td>
+                            <td>@item.videoDataNumber</td>
+                            <td>@item.videoPartName</td>
+                            <td>@item.videoAuthor</td>
+                            <td>@item.videoUrl</td>
+                            <td><a href="/Admin/VideoPart/DeleteVideoPart/@item.videoPartID" class="btn btn-outline-danger">Sil</a></td>
+                            <td><a href="/Admin/VideoPart/UpdateVideoPart/@item.videoPartID" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </table>
+                <td><a href="/Admin/VideoPart/CreateVideoPart/" class="btn btn-outline-primary">Haber Ekle</a></td>
+            </div>
+        </div>
+    </div>
+</div>
+

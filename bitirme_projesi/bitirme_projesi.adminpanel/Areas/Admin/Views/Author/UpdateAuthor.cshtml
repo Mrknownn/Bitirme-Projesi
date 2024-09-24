@@ -1,0 +1,21 @@
+﻿@model UpdateAuthorDto
+@{
+    ViewData["Title"] = "UpdateAuthor";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+<h1>Yazar Düzenleme Sayfası</h1>
+<form method="post">
+    <label>Yazar Adı</label>
+    <input type="text" asp-for="AuthorName" class="form-control" />
+    <br />
+    <label>Yazar Soyadı</label>
+    <input type="text" asp-for="AuthorSurname" class="form-control" />
+    <br />
+    <label>E-mail</label>
+    <input type="email" asp-for="AuthorEmail" class="form-control" />
+    <br />
+    <label>Görsel</label>
+    <input type="url" asp-for="AuthorImage" class="form-control" />
+    <br />
+    <button class="btn btn-primary">Yazarı Güncelle</button>
+</form>

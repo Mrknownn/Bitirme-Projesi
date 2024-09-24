@@ -1,0 +1,25 @@
+﻿@model CreateLatestReviewsDto
+@{
+    ViewData["Title"] = "CreateNews";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+<h1>Yeni Haber Girişi</h1>
+<form method="post">
+    <label>Haber Başlığı</label>
+    <input type="text" asp-for="LatestReviewsTitle" class="form-control" />
+    <br />
+    <label>Haber Metini</label>
+    <input type="textarea" asp-for="LatestReviewsDescription" class="form-control" />
+    <br />
+    <label>Haber Yazarı</label>
+    <input type="text" asp-for="LatestReviewsAuthor" class="form-control" />
+    <br />
+    <label>Haber Görseli</label>
+    <input type="text" asp-for="LatestReviewsImageUrl" class="form-control" />
+    <br />
+    <label>Haber Yazılma Tarihi</label>
+    <input type="datetime" asp-for="LatestReviewsTime" class="form-control" />
+    <br />
+    <button class="btn btn-primary">Haberi Ekle</button>
+</form>
+

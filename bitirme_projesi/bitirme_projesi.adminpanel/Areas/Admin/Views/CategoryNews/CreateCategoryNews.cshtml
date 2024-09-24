@@ -1,0 +1,25 @@
+﻿@model CreateCategoryNewsDto
+@{
+    ViewData["Title"] = "CreateNews";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+<h1>Yeni Haber Girişi</h1>
+<form method="post">
+    <label>Haber Başlığı</label>
+    <input type="text" asp-for="CategoryNewsTitle" class="form-control" />
+    <br />
+    <label>Haber Metini</label>
+    <input type="textarea" asp-for="CategoryNewsDescription" class="form-control" />
+    <br />
+    <label>Haber Yazarı</label>
+    <input type="text" asp-for="CategoryNewsAuthor" class="form-control" />
+    <br />
+    <label>Haber Görseli</label>
+    <input type="text" asp-for="CategoryNewsImageUrl" class="form-control" />
+    <br />
+    <label>Haber Yazılma Tarihi</label>
+    <input type="datetime" asp-for="CategoryNewsTime" class="form-control" />
+    <br />
+    <button class="btn btn-primary">Haberi Ekle</button>
+</form>
+

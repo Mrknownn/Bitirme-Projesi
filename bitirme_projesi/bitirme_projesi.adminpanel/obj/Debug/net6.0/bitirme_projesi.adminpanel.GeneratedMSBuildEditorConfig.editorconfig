@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = bitirme_projesi.adminpanel
+build_property.RootNamespace = bitirme_projesi.adminpanel
+build_property.ProjectDir = C:\Users\byara\OneDrive\Masaüstü\bitirme_projesi\bitirme_projesi.adminpanel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\byara\OneDrive\Masaüstü\bitirme_projesi\bitirme_projesi.adminpanel
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/Author/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yXENyZWF0ZUF1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/Author/UpdateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yXFVwZGF0ZUF1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/CategoryNews/CreateCategoryNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlOZXdzXENyZWF0ZUNhdGVnb3J5TmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/CategoryNews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlOZXdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/CategoryNews/UpdateCategoryNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlOZXdzXFVwZGF0ZUNhdGVnb3J5TmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/EditorsPicks/CreateEditorsPicks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRWRpdG9yc1BpY2tzXENyZWF0ZUVkaXRvcnNQaWNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/EditorsPicks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRWRpdG9yc1BpY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/EditorsPicks/UpdateEditorsPicks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRWRpdG9yc1BpY2tzXFVwZGF0ZUVkaXRvcnNQaWNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/LatestArticles/CreateLatestArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGF0ZXN0QXJ0aWNsZXNcQ3JlYXRlTGF0ZXN0QXJ0aWNsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/LatestArticles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGF0ZXN0QXJ0aWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/LatestArticles/UpdateLatestArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGF0ZXN0QXJ0aWNsZXNcVXBkYXRlTGF0ZXN0QXJ0aWNsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/LatestReviews/CreateLatestReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGF0ZXN0UmV2aWV3c1xDcmVhdGVMYXRlc3RSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/LatestReviews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGF0ZXN0UmV2aWV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/LatestReviews/UpdateLatestReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGF0ZXN0UmV2aWV3c1xVcGRhdGVMYXRlc3RSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/MidPart/CreateMidPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWlkUGFydFxDcmVhdGVNaWRQYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/MidPart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWlkUGFydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/MidPart/UpdateMidPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWlkUGFydFxVcGRhdGVNaWRQYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/MostViewed/CreateMostViewed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW9zdFZpZXdlZFxDcmVhdGVNb3N0Vmlld2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/MostViewed/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW9zdFZpZXdlZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/MostViewed/UpdateMostViewed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW9zdFZpZXdlZFxVcGRhdGVNb3N0Vmlld2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/News/CreateNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xDcmVhdGVOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/News/UpdateNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xVcGRhdGVOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/RecentPost/CreateRecentPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjZW50UG9zdFxDcmVhdGVSZWNlbnRQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/RecentPost/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjZW50UG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/RecentPost/UpdateRecentPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjZW50UG9zdFxVcGRhdGVSZWNlbnRQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TechandInnovation/CreateTechandInnovation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVjaGFuZElubm92YXRpb25cQ3JlYXRlVGVjaGFuZElubm92YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TechandInnovation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVjaGFuZElubm92YXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TechandInnovation/UpdateTechandInnovation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVjaGFuZElubm92YXRpb25cVXBkYXRlVGVjaGFuZElubm92YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TopStories/CreateTopStories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wU3Rvcmllc1xDcmVhdGVUb3BTdG9yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TopStories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wU3Rvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TopStories/UpdateTopStories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wU3Rvcmllc1xVcGRhdGVUb3BTdG9yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TrendingNow/CreateTrendingNow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHJlbmRpbmdOb3dcQ3JlYXRlVHJlbmRpbmdOb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TrendingNow/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHJlbmRpbmdOb3dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/TrendingNow/UpdateTrendingNow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHJlbmRpbmdOb3dcVXBkYXRlVHJlbmRpbmdOb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/VideoPart/CreateVideoPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlkZW9QYXJ0XENyZWF0ZVZpZGVvUGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/VideoPart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlkZW9QYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/VideoPart/UpdateVideoPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlkZW9QYXJ0XFVwZGF0ZVZpZGVvUGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/byara/OneDrive/Masaüstü/bitirme_projesi/bitirme_projesi.adminpanel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h1gkogsjvv

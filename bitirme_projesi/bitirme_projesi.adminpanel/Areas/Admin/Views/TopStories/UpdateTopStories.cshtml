@@ -1,0 +1,26 @@
+﻿@model UpdateTopStoriesDto
+@{
+    ViewData["Title"] = "UpdateNews";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Haber Düzenleme Sayfası</h1>
+<form method="post">
+    <input type="hidden" asp-for="TopStoriesID" />
+    <label>Haber Başlığı</label>
+    <input type="text" asp-for="TopStoriesTitle" class="form-control" />
+    <br />
+    <label>Haber Metini</label>
+    <input type="textarea" asp-for="TopStoriesDescription" class="form-control" />
+    <br />
+    <label>Haber Yazarı</label>
+    <input type="text" asp-for="TopStoriesAuthor" class="form-control" />
+    <br />
+    <label>Haber Görseli</label>
+    <input type="text" asp-for="TopStoriesImageUrl" class="form-control" />
+    <br />
+    <label>Haber Yazılma Tarihi</label>
+    <input type="datetime" asp-for="TopStoriesTime" class="form-control" />
+    <br />
+    <button class="btn btn-success">Haberi Güncelle</button>
+</form>
